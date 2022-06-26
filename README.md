@@ -1,5 +1,7 @@
 # ForkMutationTesting
 
+<p>Alunos: Frederico Bernardes Wust Stein e Gustavo Bosco</p>
+
 <p>Nesse trabalho realizamos o fork de um projeto com testes unitários prontos, e executamos o teste de mutação</p>
 <p>Ferramentas utilizadas:</p>
 
@@ -11,5 +13,5 @@
 
 <p align="center"><img src="img/img1.png"></p>
 
-<p>Onde no relatório são apresentados os testes "mortos" com a mutação e os testes que sobreviveram</p>
+<p>Onde no relatório são apresentados os testes "mortos"</p>
 
