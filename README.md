@@ -18,7 +18,7 @@
 <p align="center"><img src="img/sobrevivente1.png"></p>
 <p align="center"><img src="img/sobrevivente2.png"></p>
 
-<p>Cenárois mortos pela mutação:</p>
+<p>Cenários mortos pela mutação:</p>
 
 <p align="center"><img src="img/cenarioMortos.png"></p>
 
