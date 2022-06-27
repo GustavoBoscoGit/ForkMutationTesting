@@ -9,9 +9,18 @@
 - Stryker para os testes de mutação;
 
 <p>Foi utilizada a linguagem C# pois o Stryker é uma biblioteca que oferece testes de mutação exclusivamente para .NET.</p>
-<p>Ao executar o teste de mutação foram obtidos os seguintes relatórios:</p>
+<p>Ao executar o Stryker é gerado um relatório onde nele estão presentes os cenários que foram "mortos" pela mutação e aqueles que sobreviveram. Também é possivel qual foi a mutação realizada pela ferramenmta</p>
 
+<p>Relatório Geral:</p>
 <p align="center"><img src="img/img1.png"></p>
 
-<p>Onde no relatório são apresentados os testes "mortos"</p>
+<p>Cenários que sobreviveram a mutação:</p>
+<p align="center"><img src="img/sobrevivente1.png"></p>
+<p align="center"><img src="img/sobrevivente2.png"></p>
+
+<p>Cenárois mortos pela mutação:</p>
+
+<p align="center"><img src="img/cenarioMortos.png"></p>
+
+
 
