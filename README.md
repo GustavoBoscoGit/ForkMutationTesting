@@ -22,5 +22,16 @@
 
 <p align="center"><img src="img/cenarioMortos.png"></p>
 
+# Como Executar
+
+<p>Para executar o teste de mutação é necessário ter o .NET instalado e também é preciso instalar a biblioteca do striker.</p>
+<p>Para instalar a biblioteca do striker é necessário rodar o comando:</p>
+
+- dotnet tool install -g dotnet-stryker;
+
+<p>Para executar o teste de mutação é necessário rodar o comando:</p>
+
+- dotnet Stryker;
+
 
 
